@@ -1,0 +1,495 @@
+[
+    {
+    "question": "Which one of the following soils is ideal for growing cotton?",
+    "options": [
+            "Regur soil",
+            "Laterite soil",
+            "Desert soil"
+        ],
+    "correctAnswerIndex": "0",
+    },
+    {
+    "question": "What is the largest organ of the human body?",
+    "options": [
+            "Heart",
+            "Skin",
+            "Liver"
+        ],
+    "correctAnswerIndex": "1",
+    },
+    {
+    "question": "Soil is formed by the process of",
+    "options": [
+            "Denudation",
+            "Gradation",
+            "Weathering"
+        ],
+    "correctAnswerIndex": "2",
+    },
+    {
+    "question": "Land left without cultivation for one or less than one agricultural year is called",
+    "options": [
+            "Cultural waste land",
+            "Current fallow land",
+            "Waste land",
+        ],
+    "correctAnswerIndex": "1",
+    },
+    {
+    "question": "There is enough for everybody’s need but not for anybody’s greed. Who said this?",
+    "options": [
+            "Jawahar Lai Nehru",
+            "Atal Bihari Vajpai",
+            "M. K. Gandhi"
+        ],
+    "correctAnswerIndex": "2",
+    },
+     {
+         "question": "Resources which are surveyed and their quantity and quality have been determined for utilisation are known as",
+         "options": [
+             "Potential resources",
+             "Stock",
+             "Developed resources"
+         ],
+         "correctAnswerIndex": "2",
+     }, {
+         "question": "Which one of the following statements is correct as regard to international resources?",
+         "options": [
+             "Resources which are regulated by international institutions.",
+             "Resources which lie beyond the territorial waters.",
+             "Resources which are found along the international frontier.<br> (d) Resources which are not yet developed."
+         ],
+         "correctAnswerIndex": "0",
+     }, {
+         "question": "The first International Earth Summit was held in",
+         "options": [
+             "Geneva",
+             "New York",
+             "Rio de Janeiro "
+         ],
+         "correctAnswerIndex": "2"
+     }, {
+         "question": "The most widespread relief feature of India is",
+         "options": [
+             "Mountains",
+             "Plains",
+             "Forests",
+         ],
+         "correctAnswerIndex": "1"
+     }, {
+         "question": "Resources which are found in a region, but have not been utilised",
+         "options": [
+             "Renewable",
+             "Potential",
+             "Developed"
+         ],
+         "correctAnswerIndex": "1"
+     },
+     {
+         "question": "Which one of the following statements is true about the term resources?",
+         "options": [
+             "They are the functions of human activities.",
+             "Things which cannot be used to fulfill our needs.",
+             "All those things which are found in nature."
+         ],
+         "correctAnswerIndex": "0"
+     },
+       {
+           "question": "The red soil is red in colour because",
+           "options": [
+               "it is rich in humus.",
+               "it is rich in iron compounds.",
+               "it is derived from volcanic origin."
+           ],
+           "correctAnswerIndex": "1"
+       },
+        {
+            "question": "Which one of the following type of resource is iron ore?",
+            "options": [
+                "Renewable",
+                "Biotic",
+                "Non-renewable"
+            ],
+            "correctAnswerIndex": "2"
+        },
+         {
+             "question": "What percentage of our land should be under forest according to the National Forest Policy (1952)?",
+             "options": [
+                 "33",
+                 "25.5",
+                 "40"
+             ],
+             "correctAnswerIndex": "0"
+         },
+             {
+                 "question": "India’s territorial water extends upto a distance of:",
+                 "options": [
+                     "12 km",
+                     "12 nautical miles",
+                     "200 nautical miles"
+                 ],
+                 "correctAnswerIndex": "1"
+             },
+                {
+                    "question": "Which of the following is not important for soil formation?",
+                    "options": [
+                        "Relief",
+                        "Parent rock",
+                        "Duration of the day"
+                    ],
+                    "correctAnswerIndex": "2"
+                },
+                  {
+                      "question": " Which of the following is not a measure for soil conservation?",
+                      "options": [
+                          "Strip cropping",
+                          "Terrace",
+                          "Overdrawing of ground water"
+                      ],
+                      "correctAnswerIndex": "2"
+                  },
+                     {
+                         "question": " Which of the following is not a measure for soil conservation?",
+                         "options": [
+                             "Strip cropping",
+                             "Terrace",
+                             "Overdrawing of ground water"
+                         ],
+                         "correctAnswerIndex": "2"
+                     },
+                    {
+                        "question": " The capital that is consumed by an economy or a firm in the production process is known as",
+                        "options": [
+                            "Capital loss",
+                            "Production cost",
+                            "Depreciation"
+                        ],
+                        "correctAnswerIndex": "2"
+                    },
+                        {
+                            "question": " Who propounded the opportunity cost theory of international trade?",
+                            "options": [
+                                "Haberler",
+                                "Heckscher",
+                                "Marshall"
+                            ],
+                            "correctAnswerIndex": "0"
+                        },
+                        {
+                            "question": " Which among the following statement is INCORRECT?",
+                            "options": [
+                                "On a linear demand curve, all the five forms of elasticity can be depicted",
+                                "If two demand curves are linear and intersecting each other, then, coefficient of elasticity would be same on different demand curves at the point of intersection.",
+                                "The price elasticity of demand is expressed in terms of relaive not absolute changes in Price and Quantity demanded."
+                            ],
+                            "correctAnswerIndex": "1"
+                        },
+                        {
+                            "question": "If the demand for a good is inelastic, an increase in its price will cause the total expenditure of the consumers of the good to",
+                            "options": [
+                                "Increase",
+                                "Decrease",
+                                "Remain the same"
+                            ],
+                            "correctAnswerIndex": "0"
+                        },
+                        {
+                            "question": "The horizontal demand curve parallel to x-axis implies that the elasticity of demand is",
+                            "options": [
+                                "Zero",
+                                "Infinite",
+                                "Equal to 1"
+                            ],
+                            "correctAnswerIndex": "1"
+                        },
+                        {
+                            "question": "An individual demand curve slopes downward to the right because of the",
+                            "options": [
+                                "Working of the law of diminishing marginal utility",
+                                "Substitution effect of decrease in price",
+                                "All of the above"
+                            ],
+                            "correctAnswerIndex": "2"
+                        },
+                            {
+                                "question": "Income elasticity of demand is defined as the responsiveness of",
+                                "options": [
+                                    "Quantity demanded to a change in income",
+                                    "Quantity demanded to a change in price",
+                                    "All of the above"
+                                ],
+                                "correctAnswerIndex": "0"
+                            },
+                                {
+                                    "question": "The supply of a good refers to",
+                                    "options": [
+                                        "Stock available for sale",
+                                        "Total stock in the warehouse",
+                                        "Quantity of the good offered for sale at a particular price per unit of time"
+                                    ],
+                                    "correctAnswerIndex": "2"
+                                },
+                            {
+                                "question": "The cost of one thing in terms of the alternative given up is called",
+                                "options": [
+                                    "Real cost",
+                                    "Production cost",
+                                    "Opportunity cost"
+                                ],
+                                "correctAnswerIndex": "2"
+                            },
+                        {
+                            "question": "Assume that consumer's income and the number of sellers in the market for good X both falls. Based on this information, we can conclude with certaintty that the equilibrium",
+                            "options": [
+                                "Price will decrease",
+                                "Quantity will decrease",
+                                "Quantity will increase"
+                            ],
+                            "correctAnswerIndex": "1"
+                        },
+                            {
+                                "question": "The economist 's objections to monopoly rest on which of the following grounds?",
+                                "options": [
+                                    "There is a transfer of income from consumers to the monopolist",
+                                    "There is welfare loss as resources tend to be misallocated under monopoly",
+                                    "All of the above"
+                                ],
+                                "correctAnswerIndex": "2"
+                            },
+                           {
+                               "question": "In which of the following market structure is the degree of control over the price of its product by a firm very large ?",
+                               "options": [
+                                   "Imperfect competition",
+                                   "Perfect competition",
+                                   "Monopoly"
+                               ],
+                               "correctAnswerIndex": "2"
+                           },
+                          {
+                              "question": "The offer curves introduced by Alfred Marshall, helps us to understand how the ___ is established in international trade.",
+                              "options": [
+                                  "Terms of trade",
+                                  "Equilibrium price ratio",
+                                  "Exchange rate"
+                              ],
+                              "correctAnswerIndex": "0"
+                          },
+                     {
+                         "question": "Demand for factors of production is ",
+                         "options": [
+                             "Derived demand",
+                             "Joint demand",
+                             "Composite demand"
+                         ],
+                         "correctAnswerIndex": "0"
+                     },
+                        {
+                            "question": "The producer 's demand for a factor of production is governed by the ____ of the factor.",
+                            "options": [
+                                "Price will increase",
+                                "Marginal productivity",
+                                "Profitability"
+                            ],
+                            "correctAnswerIndex": "1"
+                        },
+                      {
+                          "question": "Under conditions of perfect competition in the product market",
+                          "options": [
+                              "MRP = VMP",
+                              "MRP > VMP",
+                              "VMP > MRP"
+                          ],
+                          "correctAnswerIndex": "0"
+                      },
+                       {
+                           "question": "Which statistical measure helps in measuring the purchasing power of money?",
+                           "options": [
+                               "Arithmetic average",
+                               "Index numbers",
+                               "Harmonic mean"
+                           ],
+                           "correctAnswerIndex": "1"
+                       },
+                      {
+                          "question": "Fisher's ideal index number is",
+                          "options": [
+                              "Arithmetic mean of Laspeyre's and Paasche's index",
+                              "Harmonic mean of Laspeyre's and Paasche's index",
+                              "Geometric mean of Laspeyre's and Paasche's index"
+                          ],
+                          "correctAnswerIndex": "2"
+                      },
+                      {
+                          "question": "Which among the following statement is INCORRECT?",
+                          "options": [
+                              "Floating exchange rate system works on the market mechanism",
+                              "Floating exchange rate breeds uncertainties and speculation",
+                              "The system of floating exchange rate requires comprehensive government intervention"
+                          ],
+                          "correctAnswerIndex": "2"
+                      },
+                         {
+                             "question": "Which among the following statement is INCORRECT?",
+                             "options": [
+                                 "Welfare economics is based on value judgements",
+                                 "The founder of Welfare economics was Alfred Marshall",
+                                 "Welfare economics is also called 'economics with a heart'"
+                             ],
+                             "correctAnswerIndex": "1"
+                         },
+                      {
+                          "question": "Who is the 'lender of the last resort' in the banking structure of India?",
+                          "options": [
+                              "State bank of India",
+                              "Reserve bank of India",
+                              "EXIM bank of India"
+                          ],
+                          "correctAnswerIndex": "1"
+                      },
+                         {
+                             "question": "____ is the official minimum rate at which the Central Bank of a country is prepared to rediscount approved bills held by the commercial banks",
+                             "options": [
+                                 "Bank rate",
+                                 "Repo rate",
+                                 "Reverse repo rate"
+                             ],
+                             "correctAnswerIndex": "0"
+                         },
+                           {
+                               "question": "Credit creation power of the commercial banks gets limited by which of the following?",
+                               "options": [
+                                   "Banking habits of the people",
+                                   "Cash Reserve Ratio",
+                                   "All of the above"
+                               ],
+                               "correctAnswerIndex": "2"
+                           },
+                            {
+                                "question": "Number of times a unit of money changes hands in the course of a year is called",
+                                "options": [
+                                    "Supply of money",
+                                    "Purchasing power of money",
+                                    "Velocity of money"
+                                ],
+                                "correctAnswerIndex": "2"
+                            },
+                            {
+                                "question": "Normally a demand curve will have the shape",
+                                "options": [
+                                    "Downward sloping",
+                                    "Vertical",
+                                    "Horizontal"
+                                ],
+                                "correctAnswerIndex": "0"
+                            },
+                         {
+                             "question": "Who defined Economics as a 'science which studies human behaviour as a relationship betweeen ends and means which have alternative uses'?",
+                             "options": [
+                                 "Alfred Marshall",
+                                 "L. Robbins",
+                                 "Joan Robinson"
+                             ],
+                             "correctAnswerIndex": "1"
+                         },
+                       {
+                           "question": "Law of demand shows relation between",
+                           "options": [
+                               "Income and price of commodity",
+                               "Income and quantity demanded",
+                               "Price and quantity of commodity"
+                           ],
+                           "correctAnswerIndex": "2"
+                       },
+                           {
+                               "question": "The Earth summit was organised by",
+                               "options": [
+                                   "UNCED",
+                                   "UNESCO",
+                                   "WHO"
+                               ],
+                               "correctAnswerIndex": "0"
+                           },
+                     {
+                         "question": "World Environmental day is celebrated on ________ every year.",
+                         "options": [
+                             "01-10-2024",
+                             "05-06-2005",
+                             "01-10-2024"
+                         ],
+                         "correctAnswerIndex": "1"
+                     },
+                   {
+                       "question": "Environment includes",
+                       "options": [
+                           "Abiotic component",
+                           "Oxygen and Nitrogen",
+                           "Abiotic and Biotic component"
+                       ],
+                       "correctAnswerIndex": "2"
+                   },
+                    {
+                        "question": "The largest ecosystem of earth is",
+                        "options": [
+                            "Hydrosphere",
+                            "Lithosphere",
+                            "Biosphere"
+                        ],
+                        "correctAnswerIndex": "2"
+                    },
+              {
+                  "question": "For which of the following reason, it is necessary to secure a large area for forest?",
+                  "options": [
+                      "Absorption of carbon dioxide",
+                      "Ecological balance",
+                      "Conservation of wild"
+                  ],
+                  "correctAnswerIndex": "1"
+              },
+           {
+               "question": "Investment is the _______________.",
+               "options": [
+                   "net additions made to the nation’s capital stocks",
+                   "person’s commitment to buy a flat or house",
+                   "employment of funds on assets to earn returns"
+               ],
+               "correctAnswerIndex": "2"
+           },
+              {
+                  "question": "Financial Management is mainly concerned with ______________.",
+                  "options": [
+                      "All aspects of acquiring and utilizing financial resources for firms activities",
+                      "Arrangement of funds",
+                      "Efficient Management of every business"
+                  ],
+                  "correctAnswerIndex": "0"
+              },
+            {
+                "question": "The primary goal of the financial management is ____________.",
+                "options": [
+                    "to maximize the return",
+                    "to minimize the risk",
+                    "to maximize the wealth of owners"
+                ],
+                "correctAnswerIndex": "2"
+            },
+               {
+                   "question": "In his traditional role the finance manager is responsible for ___________.",
+                   "options": [
+                       "proper utilisation of funds",
+                       "arrangement of financial resources",
+                       "acquiring capital assets of the organization"
+                   ],
+                   "correctAnswerIndex": "1"
+               },
+                 {
+                     "question": "Market value of the shares are decided by ____________.",
+                     "options": [
+                         "the respective companies",
+                         "the investment market",
+                         "the government"
+                     ],
+                     "correctAnswerIndex": "1"
+                 }
+]
+
+
